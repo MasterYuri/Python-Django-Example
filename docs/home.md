@@ -45,13 +45,13 @@
 
 ### Типы данных
 
-* [User / Пользователь](types/user)
+* [User / Пользователь](types/user.md)
 
 ### Авторизация и пользователь
 
-* [Авторизация в качестве гостя](api/v1/sessions/guest/_post)
-* [Авторизация пользователем](api/v1/sessions/user/_post)
-* [Обновить истекшую сессию](api/v1/sessions/refreshed/_post)
-* [Изменение данных сессии](api/v1/sessions/current/_patch)
-* [Логаут](api/v1/sessions/current/_delete)
-* [Логаут для всех сессий](api/v1/sessions/_delete)
+* [Авторизация в качестве гостя](api/v1/sessions/guest/_post.md)
+* [Авторизация пользователем](api/v1/sessions/user/_post.md)
+* [Обновить истекшую сессию](api/v1/sessions/refreshed/_post.md)
+* [Изменение данных сессии](api/v1/sessions/current/_patch.md)
+* [Логаут](api/v1/sessions/current/_delete.md)
+* [Логаут для всех сессий](api/v1/sessions/_delete.md)
